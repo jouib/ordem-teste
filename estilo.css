@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+}
+
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-style: italic;
+    color:aliceblue;
+}
+p{
+    font-size: 14px;
+    color:aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    font-style: italic;
+    color:aliceblue;
+}
+h4{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    color:aliceblue;
+}
